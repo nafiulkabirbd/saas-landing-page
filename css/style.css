@@ -105,3 +105,39 @@ body {
   margin-top: 100px;
 }
 /* logo style end */
+
+/* features style start */
+.features-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.features-container {
+  width: 311px;
+  height: 240px;
+}
+
+.features-img {
+  display: block;
+  margin: 0px auto;
+}
+
+.features-title {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 32px;
+}
+
+.features-details {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: 0.4;
+  margin-top: 10px;
+}
+/* features style end */
